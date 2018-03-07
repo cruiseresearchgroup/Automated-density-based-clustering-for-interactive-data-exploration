@@ -1,0 +1,76 @@
+#map {
+	width: 100%;
+ 	height: 100%;
+}
+
+.panel {
+  margin-bottom: 3px;
+}
+
+.legend {
+	position: absolute;
+	z-index: 1;
+	left: 10px;
+	bottom: 10px;
+}
+
+.popover {
+	max-width: 440px;
+}
+
+.popover-title {
+	float: right;
+	background: none;
+	border: 0;
+	cursor: pointer;
+}
+
+.popover-content iframe {
+	width: 400px;
+	height: 120px;
+	border: 0;
+}
+
+#popup {
+	font-size: 10px;
+}
+
+.list-group-item-no-border {
+	border: 0;
+	padding: 0;
+}
+
+@media ( min-width : 768px) {
+	.sidebar {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		z-index: 1000;
+		display: block;
+		padding: 5px;
+		overflow-x: hidden;
+		overflow-y: auto;
+		/* Scrollable contents if viewport is shorter than content. */
+		border-right: 1px solid #eee;
+	}
+}
+
+@media ( min-width : 768px) {
+	.main {
+		padding-top: 20px;
+		/* width: 100%;
+		 height: 100%; */
+	}
+}
+
+.keyitem
+{
+	/*width: 60px;*/ 
+	height: 24px; 
+	line-height: 24px;
+	vertical-align: middle;
+	font-size: 11px;
+	text-align: center;
+	-webkit-print-color-adjust: exact;
+}
