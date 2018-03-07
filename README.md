@@ -30,7 +30,7 @@ If you use the resources presented in this repository, please cite (using the fo
   booktitle={2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
   pages={295-300}, 
   keywords={data visualisation;parameter estimation;pattern clustering;automated density;cluster indices;data distribution;interactive data exploration;multiresolution density;parameter estimation;real-world road crash datasets;spatial urban data;voting scheme;Australia;Clustering algorithms;Conferences;Data visualization;Electronic mail;Roads;Smart cities}, 
-doi={10.1109/INFCOMW.2017.8116392}, 
+  doi={10.1109/INFCOMW.2017.8116392}, 
   month={May}, 
   year={2017}
 }
