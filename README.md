@@ -8,7 +8,7 @@ This repository contains resources developed within the following paper:
 
 You can find the [paper](https://github.com/cruiseresearchgroup/Automated-density-based-clustering-for-interactive-data-exploration/blob/master/paper/Rosalina2017Automated.pdf) and [presentation](https://github.com/cruiseresearchgroup/Automated-density-based-clustering-for-interactive-data-exploration/blob/master/presentation/INFOCOMM-Erica2017.pdf) in this repository. 
 
-Alternative link: https://ieeexplore.ieee.org/document/8116392
+Alternative link: http://ieeexplore.ieee.org/document/8116392/
 
 ## Contents of the repository
 This repository contains resources used and described in the paper.
@@ -25,9 +25,13 @@ The repository is structured as follows:
 If you use the resources presented in this repository, please cite (using the following BibTeX entry):
 ```
 @inproceedings{rosalina2017automated,
-  title={Automated Density-Based Clustering of Spatial Urban Data for Interactive Data Exploration},
-  author={Rosalina, Erica and Salim, Flora D and Sellis, Timos}, 
-  booktitle={IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
+  title={Automated density-based clustering of spatial urban data for interactive data exploration}, 
+  author={E. Rosalina and F. D. Salim and T. Sellis}, 
+  booktitle={2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
+  pages={295-300}, 
+  keywords={data visualisation;parameter estimation;pattern clustering;automated density;cluster indices;data distribution;interactive data exploration;multiresolution density;parameter estimation;real-world road crash datasets;spatial urban data;voting scheme;Australia;Clustering algorithms;Conferences;Data visualization;Electronic mail;Roads;Smart cities}, 
+doi={10.1109/INFCOMW.2017.8116392}, 
+  month={May}, 
   year={2017}
 }
 ```
