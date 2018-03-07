@@ -24,13 +24,11 @@ The repository is structured as follows:
 ## Citation
 If you use the resources presented in this repository, please cite (using the following BibTeX entry):
 ```
-@inproceedings{lastnameYearTitle,
-  title={Your paper title},
-  author={Lastname1, Author1 and Lastname2, Author2 and Lastname3, Author3 and Lastname4, Author4},
-  booktitle={Certain Conference or Venue},
-  pages={1--999},
-  year={2018},
-  organization={Springer}
+@inproceedings{rosalina2017automated,
+  title={Automated Density-Based Clustering of Spatial Urban Data for Interactive Data Exploration},
+  author={Rosalina, Erica and Salim, Flora D and Sellis, Timos}, 
+  booktitle={IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
+  year={2017}
 }
 ```
 
