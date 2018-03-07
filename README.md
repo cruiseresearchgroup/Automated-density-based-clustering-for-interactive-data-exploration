@@ -3,8 +3,8 @@ This paper presents a method to automatically estimate parameters for density-ba
 
 This repository contains resources developed within the following paper:
 
-  Rosalina, E., Salim, F. D., & Sellis, T. (2017). Automated Density-Based Clustering of Spatial Urban Data for Interactive Data Exploration. 
-  In IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Atlanta, GA, pp. 295-300.
+	Rosalina, E., Salim, F. D., & Sellis, T. (2017). Automated Density-Based Clustering of Spatial Urban Data for Interactive Data Exploration. 
+	In IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Atlanta, GA, pp. 295-300.
 
 You can find the [paper](https://github.com/cruiseresearchgroup/Automated-density-based-clustering-for-interactive-data-exploration/blob/master/paper/Rosalina2017Automated.pdf) and [presentation](https://github.com/cruiseresearchgroup/Automated-density-based-clustering-for-interactive-data-exploration/blob/master/presentation/INFOCOMM-Erica2017.pdf) in this repository. 
 
