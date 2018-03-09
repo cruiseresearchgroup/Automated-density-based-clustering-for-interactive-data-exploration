@@ -1,3 +1,6 @@
+> **If you use the resources (algorithm, code and dataset) presented in this repository, please cite our paper.**  
+*The BibTeX entry is provided at the bottom of this page. 
+
 # Automated density-based clustering of spatial urban data for interactive data exploration
 This paper presents a method to automatically estimate parameters for density-based clustering based on data distribution. It also includes several techniques for visualizing the clusters over a map, useful for interactive data exploration. The proposed method enables parameter estimation to automatically adapt to multiple resolutions, allowing the clusters to be recomputed and visualized interactively at query time with the changes of zoom levels and panning of the map. We apply a voting scheme with existing cluster indices to rank the clustering results. The framework of multi-resolution density-based clustering and visualization is implemented and evaluated using a real-world road crash datasets.
 
