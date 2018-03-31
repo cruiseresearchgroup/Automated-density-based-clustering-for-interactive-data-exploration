@@ -22,7 +22,7 @@ The repository is structured as follows:
    * Automatic parameter estimation of DBSCAN can be found in `DBSCANServlet.java`. 
    * Automatic parameter estimation of HDBSCAN can be found in `HDBSCANServlet.java`.
 - `paper/`: Formal description of the algorithm and evaluation result. 
-- `presentation/`: PDF of paper presentation in certain conference or venue.
+- `presentation/`: PDF of paper presentation in INFOCOM Workshops.
 
 ## Citation
 If you use the resources presented in this repository, please cite (using the following BibTeX entry):
